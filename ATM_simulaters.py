@@ -9,7 +9,7 @@ while True:
     print("......WELCOME.......")
 
     try:
-        choice = int(input("Enter your choice: \n 1. Account Balance Inquiry \n 2. Cash Withdrawal \n 3. Cash Deposit \n 4. PIN Change \n 5. Transaction History \n 6. Exit"))
+        choice = int(input("Enter your choice: \n 1. Account Balance Inquiry \n 2. Cash Withdrawal \n 3. Cash Deposit \n 4. PIN Change \n 5. Transaction History \n 6. Exit:..."))
 
         if choice == 1:
             try:
